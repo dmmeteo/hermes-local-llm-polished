@@ -1,0 +1,5 @@
+name: local-llm-polished
+version: 0.1.0
+description: Local faster-whisper STT provider with an optional LLM transcript polish step.
+provides_transcription_providers:
+  - local_llm_polished
